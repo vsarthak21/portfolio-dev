@@ -1,0 +1,28 @@
+.poem{
+    color: brown;
+    text-align: center;
+    padding: 2rem;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 0;
+}
+
+.poemCols{
+    color: azure;
+    border: solid white;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 1rem;
+    
+}
+
+.poemRow{
+    background-color: rgb(224, 189, 72);
+    padding: 1rem;
+    margin: 0rem;
+    border-radius: 3rem;
+    box-shadow: 1px 2px 2px brown;
+}
+
+.btn{
+    background-color: yellow;
+}

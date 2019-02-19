@@ -1,0 +1,38 @@
+.footer{
+    padding:2rem;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.social{
+    text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 1px;
+    margin: auto;
+    color: azure
+  }
+
+  .fa:hover {
+    opacity: 1.0;
+    text-decoration: none;
+  }
+  
+.mapouter{
+    text-align:right;
+    height:180px;
+    width:300px;
+    display: block;
+    margin: auto;
+}
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:180px;
+    width:300px;}

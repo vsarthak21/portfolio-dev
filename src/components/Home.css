@@ -1,0 +1,153 @@
+.section1{
+    background-image: url("https://thumbs.gfycat.com/EducatedDishonestArgali-size_restricted.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 23rem;
+    padding-bottom: 23rem;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    color: aliceblue;
+    box-shadow: 2px 2px 2px black
+}
+
+hr.line{
+    border: solid 0.5px aliceblue;
+}
+
+.section2{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    margin: 2rem;
+}
+
+.bullet{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.skillList{
+    margin: 2rem;
+}
+ .skillLeft{
+     text-align: left;
+ }
+
+.section3{
+    text-align: center;
+    background-color: rgb(58, 55, 102);
+    color: aliceblue;
+    margin: auto;
+    font-family: 'Caveat', cursive;
+    padding: 1rem;
+    box-shadow: 2px 2px 2px grey;
+}
+
+.institute{
+    border-radius: 15px;
+    margin-top: 1rem;
+    width: 15rem;
+    height: 15rem;
+    box-shadow: 5px 3px 2px black;
+}
+
+.section4{
+    font-family: 'Lobster', cursive;
+    padding: 2rem;
+    text-align: center;
+}
+
+.techRow{
+    background-image: linear-gradient(to left, black, grey, white);
+    padding: 2rem;
+    margin-top: 1rem;
+}
+
+.techIcon{
+    width: 10rem;
+    height: 10rem;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 4rem;
+    
+}
+
+.techIcon:hover{
+    box-shadow: 1px 1px 1px black;
+}
+
+.section5{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(23, 134, 110);
+    padding: 2rem; 
+    color: azure;
+}
+ .projcol{
+     border: solid 1px;
+     border-radius: 2rem;
+     margin: 2rem;
+     padding: 2rem;
+     background-color: azure;
+     color: darkcyan;
+     box-shadow: 1px 2px 2px grey;
+ }
+.git{
+    box-shadow:2px 2px 2px  rgb(23, 134, 110);
+}
+
+.git:hover{
+    box-shadow:none;
+    border: solid 3px;
+    border-color: black;
+}
+
+.section6{
+    margin: 2rem;
+    text-align:center;
+    padding: 2rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://backgroundcheckall.com/wp-content/uploads/2017/12/testimonial-background-image-11.jpg");
+    color: azure;
+}
+.testimage{
+    width: 8rem;
+    display: block;
+}
+
+.testtext{
+    text-align:center;
+    margin: auto;
+}
+
+.caro{
+    margin:auto;
+    max-height: 100%;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+    
+}
+
+.caro-image{
+    height: 50%;
+}
+
+img.leftImage{
+    display: block;
+    margin: auto;
+}
+
+.sectionDark{
+    background-color: black;
+    color: lightgray;
+    padding: 2rem;
+    margin: auto;
+}
+
+.gmailIcon{
+    width: 2.5rem;
+    display: block;
+ 
+    
+}
